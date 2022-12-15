@@ -1,8 +1,6 @@
 <h1 align="center">Hey guys👋, I'm the Duke</h1>
 <h3 align="center">i'm a developer of bots, sites, applications and creations related to the game "fivem".</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
