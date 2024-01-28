@@ -1,4 +1,4 @@
-<h1 align="center">Opa 👋, Me chamo Duke</h1>
+<h1 align="center">Opa galera 👋, Me chamo Duke</h1>
 <h3 align="center">Sou um desenvolvedor completamente apaixonado por automação com o objetivo de praticidade e rapidez.</h3>
 
 <p align="left">
